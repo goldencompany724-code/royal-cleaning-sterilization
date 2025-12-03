@@ -1,0 +1,8 @@
+{
+  "name": "Royal Cleaning & Sterilization",
+  "description": "Dashboard for Royal Cleaning and Sterilization Company in Al Ain, UAE.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
